@@ -33,5 +33,5 @@ It integrates **JWT-based authentication**, **bcrypt password hashing**, and liv
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/PulseX-Backend-API.git
+git clone https://github.com/Ak0154/PulseX-Backend-API.git
 cd PulseX-Backend-API
