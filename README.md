@@ -31,7 +31,7 @@ It integrates **JWT-based authentication**, **bcrypt password hashing**, and liv
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Ak0154/PulseX-Backend-API.git
-cd PulseX-Backend-API
+cd pulseX_backend
+uvicorn main:app --reload
